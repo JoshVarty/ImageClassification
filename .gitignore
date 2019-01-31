@@ -8,7 +8,7 @@ __pycache__/
 
 #Ignore models directory
 data/*/models
-data/counting
+data/counting*
 
 # Distribution / packaging
 .Python
